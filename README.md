@@ -14,3 +14,4 @@ A modern Terminal UI (TUI) for UFW firewall management.
 
 ```bash
 pip install azufw
+```
